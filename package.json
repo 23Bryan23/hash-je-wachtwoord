@@ -1,0 +1,12 @@
+{
+  "name": "login-register-system",
+  "version": "1.0.0",
+  "description": "Een eenvoudig login- en registratiesysteem in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.0"
+  }
+}
